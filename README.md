@@ -2,7 +2,7 @@
 
 This is a text prediction web application built with the Shiny package for R. It was made for 
 the completion of the capstone project for the Johns Hopkins University Data Science Specialization.
-The running app can be accessed at shinyapps.io [here](https://msieviec.shinyapps.io/OneStepAhead/).
+The running app can be accessed at shinyapps.io here: [One Step Ahead](https://msieviec.shinyapps.io/OneStepAhead/).
 
 # Files
 
